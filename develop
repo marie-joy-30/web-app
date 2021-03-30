@@ -1,0 +1,14 @@
+git init
+
+git status
+
+git add develop
+git commit -m "develop"
+
+git log
+
+git pull
+git push
+
+git checkout checkout
+git checkout master develop
